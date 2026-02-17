@@ -1,6 +1,6 @@
-# Axis
+# Rotor-Imbalance-Simulator
 
-`Axis` is a small simulation that compares a **balanced** and **unbalanced** rotating assembly.
+`Rotor-Imbalance-Simulator` is a small simulation that compares a **balanced** and **unbalanced** rotating assembly.
 
 ## Sample Result
 
