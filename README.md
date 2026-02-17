@@ -2,6 +2,10 @@
 
 `Axis` is a small simulation that compares a **balanced** and **unbalanced** rotating assembly.
 
+## Sample Result
+
+![Axis simulation output comparing unbalanced vs balanced vibration proxy](assets/sample-output.png)
+
 It estimates:
 - center of mass
 - radial center-of-mass offset from the spin axis
